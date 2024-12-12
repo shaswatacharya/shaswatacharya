@@ -4,16 +4,16 @@
 
 # 💫 About Me:
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"><br>
-🔭 I’m currently working on **React Portfolio and Websites**<br>
 
+🔭 I’m currently working on **developing scripts and Python tools**.  
 
-🤝 I’m looking for help with **Designing**<br>
+🤝 I’m looking for guidance and collaboration in **designing projects**.  
 
-🌱 I’m currently learning **React_JS**<br>
+🌱 I’m currently enhancing my skills in **Python programming and related technologies**.  
 
-💬 Ask me about **CSS, Javascript**<br>
+💬 Feel free to ask me about **CSS, JavaScript, or Batch scripting**.  
 
-⚡ Fun fact **Sky is Blue**😁
+⚡ **Fun Fact:** The **sky appears blue** due to the scattering of sunlight by the atmosphere!
 
 
 
