@@ -5,15 +5,15 @@
 # 💫 About Me:
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"><br>
 
-🔭 I’m currently working on **developing scripts and Python tools**.  
+🔭 Currently **Developing Scripts** and **Python tools**.<br>
 
-🤝 I’m looking for guidance and collaboration in **designing projects**.  
+🤝 Open to **Guidance and Collaboration** on projects.<br>
 
-🌱 I’m currently enhancing my skills in **Python programming and related technologies**.  
+🌱 Enhancing skills in **Python** and **Related Technologies**.<br>
 
-💬 Feel free to ask me about **CSS, JavaScript, or Batch scripting**.  
+💬 Ask me about **CSS**, **JavaScript**, or **Batch Scripting**.<br>
 
-⚡ **Fun Fact:** The **sky appears blue** due to the scattering of sunlight by the atmosphere!
+⚡ Fun Fact: The **SKY appears BLUE** due to the **scattering of SUNLIGHT**!<br>
 
 
 
