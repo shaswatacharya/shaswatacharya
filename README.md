@@ -1,8 +1,8 @@
 <h1 align="center">
-  Hi 👋 , I'm Shaswat Acharya <img src="https://media.tenor.com/bU8W2-lHZhYAAAAj/luffy.gif" width="45" />
+  Hi 👋 , I'm Shaswat Acharya <img src="https://media.tenor.com/bU8W2-lHZhYAAAAj/luffy.gif" width="40" />
 </h1>
 
-<h3 align="center">Web stuff + Design things. Let’s go. <img src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGp5MTlnZ3Z5c3psbnhtNDBjcDhwN21ocmpoNTR4djljYzcwY2RjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VgGpnYeMVljm1vRA6g/giphy.gif" width="50"> </h3>
+<h3 align="center">Web stuff + Design things. Let’s go. <img src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGp5MTlnZ3Z5c3psbnhtNDBjcDhwN21ocmpoNTR4djljYzcwY2RjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VgGpnYeMVljm1vRA6g/giphy.gif" width="40"> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaswatacharya&label=Profile%20views&color=002aff&style=flat-square" alt="shaswatacharya" /> </p>
 
