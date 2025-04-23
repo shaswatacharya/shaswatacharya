@@ -69,14 +69,14 @@
 </a>
 
 <a href="https://www.youtube.com/@shaswatacharya" target="_blank">
-<img src="https://github.com/shaswatacharya/Responsive-Portfolio-Website_Professional/blob/main/assets/img/youtube.png" width=55 height=55 alt="YouTube" style="margin-bottom: 5px;" />
+<img src="https://github.com/shaswatacharya/Training_Part1/blob/main/assets/img/youtube.png" width=55 height=55 alt="YouTube" style="margin-bottom: 5px;" />
 </a>
 </div>
 <br/>
 
 <!--Buy me a coffee-->
 <div align="center">
-<a href="https://shaswatacharya.com.np/" target="_blank"><img src="https://github.com/shaswatacharya/Responsive-Portfolio-Website_Professional/blob/main/assets/img/Check%20My%20Portfolio%20(1).png" alt="Portfolio" style="height: 50px !important;width: 200px !important;" ></a>
+<a href="https://shaswatacharya.com.np/" target="_blank"><img src="https://github.com/shaswatacharya/Training_Part1/blob/main/assets/img/Check%20My%20Portfolio%20(1).png" alt="Portfolio" style="height: 50px !important;width: 200px !important;" ></a>
 </div>
 
 <!--Footer--> 
