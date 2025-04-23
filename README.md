@@ -18,6 +18,7 @@
 
 ⚡  Built on **code**, driven by **anime**.<br>
 <br>
+<br>
 
 ---
 
@@ -59,7 +60,7 @@
 <img src="https://github.com/Kiran1689/kiran1689/blob/main/instagram.png" width=50 height=50 alt="insta" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/shaswatacharya" target="_blank">
+<a href="https://www.github.com/shaswatacharya" target="_blank">
 <img src="https://github.com/Kiran1689/kiran1689/blob/main/github.png" width=50 height=50 alt="github" style="margin-bottom: 5px;" />
 </a>
 
