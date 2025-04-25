@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaswatacharya&label=%E2%9A%A1%20Live%20Views&color=002aff&style=for-the-badge&abbreviated=true&base=6969" /> </p>
 
 # 💫 Aʙᴏᴜᴛ Mᴇ:
-<img align="right" alt="coding" width="280" src="https://res.cloudinary.com/ddwkomsim/image/upload/v1745568670/coding-typing-ezgif.com-optimize_q4fn1h.gif"><br>
+<img align="right" alt="coding" width="280" src="https://res.cloudinary.com/ddwkomsim/image/upload/v1745578471/coding-typing-ezgif.com-optimize_1_xqacj7.gif"><br>
 
 🔭 Currently working on **Python Scripts**<br>
 
@@ -19,7 +19,7 @@
 ⚡  Built on **code**, driven by **anime**.<br>
 
 🎯 Focused on building **real-world**, **useful projects**<br>
-<br>
+<br><br>
 
 ---
 
