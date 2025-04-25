@@ -20,7 +20,6 @@
 
 🎯 Focused on building **real-world**, **useful projects**<br>
 
-<br>
 
 ---
 
