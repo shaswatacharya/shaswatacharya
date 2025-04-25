@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaswatacharya&label=%E2%9A%A1%20Live%20Views&color=002aff&style=for-the-badge&abbreviated=true&base=6969" /> </p>
 
 # 💫 Aʙᴏᴜᴛ Mᴇ:
-<img align="right" alt="coding" width="280" src="https://raw.githubusercontent.com/shaswatacharya/Training_Part1/refs/heads/main/assets/img/coding-typing.gif"><br>
+<img align="right" alt="coding" width="260" src="https://raw.githubusercontent.com/shaswatacharya/Training_Part1/refs/heads/main/assets/img/coding-typing.gif"><br>
 
 🔭 Currently working on **Python Scripts**<br>
 
