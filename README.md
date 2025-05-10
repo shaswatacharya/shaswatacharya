@@ -30,7 +30,7 @@
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <p align="center">  
 <img src="https://github-readme-stats.vercel.app/api?username=shaswatacharya&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github">
-<img width="353" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatacharya&theme=radical&hide_border=false&langs_count=8&include_all_commits=true&count_private=true&layout=compact">
+<img width="307" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatacharya&theme=radical&hide_border=false&langs_count=10&include_all_commits=true&count_private=&layout=compact">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaswatacharya&theme=radical&hide_border=false">
   
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
