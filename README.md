@@ -53,7 +53,7 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="mailto:shaswatacharya123@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=shaswatacharya123@gmail.com" target="_blank">
 <img src="https://github.com/Kiran1689/kiran1689/blob/main/gmail.png" width=50 height=50 alt="shaswatacharya123@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
